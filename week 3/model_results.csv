@@ -1,0 +1,5 @@
+Model,MAE,MSE,RMSE,R²
+OLS Linear Regression,3.1891,24.2911,4.9286,0.6688
+Polynomial Regression (degree=2),2.5748,14.2573,3.7759,0.8056
+Ridge Regression (α=0.001),3.1839,24.3112,4.9306,0.6685
+Lasso Regression (α=0.001),3.188,24.2956,4.9291,0.6687
